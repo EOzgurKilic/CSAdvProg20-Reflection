@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CSAdvProg20-Reflection/1.0.0": {
+        "dependencies": {
+          "ReflectionExpLib": "1.0.0"
+        },
+        "runtime": {
+          "CSAdvProg20-Reflection.dll": {}
+        }
+      },
+      "ReflectionExpLib/1.0.0": {
+        "runtime": {
+          "ReflectionExpLib.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSAdvProg20-Reflection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReflectionExpLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

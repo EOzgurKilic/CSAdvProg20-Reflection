@@ -1,0 +1,12 @@
+C:\Users\Yusei\RiderProjects\CSAdvProg20-Reflection\ReflectionExpLib\bin\Debug\net8.0\ReflectionExpLib.deps.json
+C:\Users\Yusei\RiderProjects\CSAdvProg20-Reflection\ReflectionExpLib\bin\Debug\net8.0\ReflectionExpLib.dll
+C:\Users\Yusei\RiderProjects\CSAdvProg20-Reflection\ReflectionExpLib\bin\Debug\net8.0\ReflectionExpLib.pdb
+C:\Users\Yusei\RiderProjects\CSAdvProg20-Reflection\ReflectionExpLib\obj\Debug\net8.0\ReflectionExpLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusei\RiderProjects\CSAdvProg20-Reflection\ReflectionExpLib\obj\Debug\net8.0\ReflectionExpLib.AssemblyInfoInputs.cache
+C:\Users\Yusei\RiderProjects\CSAdvProg20-Reflection\ReflectionExpLib\obj\Debug\net8.0\ReflectionExpLib.AssemblyInfo.cs
+C:\Users\Yusei\RiderProjects\CSAdvProg20-Reflection\ReflectionExpLib\obj\Debug\net8.0\ReflectionExpLib.csproj.CoreCompileInputs.cache
+C:\Users\Yusei\RiderProjects\CSAdvProg20-Reflection\ReflectionExpLib\obj\Debug\net8.0\ReflectionExpLib.sourcelink.json
+C:\Users\Yusei\RiderProjects\CSAdvProg20-Reflection\ReflectionExpLib\obj\Debug\net8.0\ReflectionExpLib.dll
+C:\Users\Yusei\RiderProjects\CSAdvProg20-Reflection\ReflectionExpLib\obj\Debug\net8.0\refint\ReflectionExpLib.dll
+C:\Users\Yusei\RiderProjects\CSAdvProg20-Reflection\ReflectionExpLib\obj\Debug\net8.0\ReflectionExpLib.pdb
+C:\Users\Yusei\RiderProjects\CSAdvProg20-Reflection\ReflectionExpLib\obj\Debug\net8.0\ref\ReflectionExpLib.dll
