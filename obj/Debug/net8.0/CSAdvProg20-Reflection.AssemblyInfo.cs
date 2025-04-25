@@ -10,13 +10,7 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CSAdvProg20-Reflection")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+012c82ea28ced62c90d29d8bc33b8e5c4d892498")]
-[assembly: System.Reflection.AssemblyProductAttribute("CSAdvProg20-Reflection")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CSAdvProg20-Reflection")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
 

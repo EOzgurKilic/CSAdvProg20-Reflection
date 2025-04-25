@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "ReflectionExpLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ReflectionExpLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ReflectionExpLib.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ReflectionExpLib/1.0.0": {
+      "type": "project",
+      "path": "ReflectionExpLib/ReflectionExpLib.csproj",
+      "msbuildProject": "ReflectionExpLib/ReflectionExpLib.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "ReflectionExpLib >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Yusei\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Yusei\\RiderProjects\\CSAdvProg20-Reflection\\ReflectionExpLib\\ReflectionExpLib.csproj": {
+              "projectPath": "C:\\Users\\Yusei\\RiderProjects\\CSAdvProg20-Reflection\\ReflectionExpLib\\ReflectionExpLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
